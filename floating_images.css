@@ -5,6 +5,7 @@ html {
 
 body {
 	background-image: linear-gradient(to right, #262525, #191919, #262525);
+	background-color: red;
 	margin: 0;
 	padding: 0;
 	min-height: 110vh; 
